@@ -1,4 +1,4 @@
-package se.ticket.imageclassifier;
+package se.lindquister.imageclassifier;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

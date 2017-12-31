@@ -1,4 +1,4 @@
-package se.ticket.imageclassifier;
+package se.lindquister.imageclassifier;
 
 import java.util.List;
 

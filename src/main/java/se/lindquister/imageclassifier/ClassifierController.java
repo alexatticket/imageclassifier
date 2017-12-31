@@ -1,4 +1,4 @@
-package se.ticket.imageclassifier;
+package se.lindquister.imageclassifier;
 
 import boofcv.abst.scene.ImageClassifier;
 import boofcv.factory.scene.ClassifierAndSource;

@@ -1,4 +1,4 @@
-package se.ticket.imageclassifier;
+package se.lindquister.imageclassifier;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
