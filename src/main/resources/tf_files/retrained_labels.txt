@@ -1,0 +1,4 @@
+people
+pool
+restaurant
+room

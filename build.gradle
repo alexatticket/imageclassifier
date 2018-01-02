@@ -33,5 +33,6 @@ bootRepackage {
 dependencies {
     compile('org.springframework.boot:spring-boot-starter-web')
     compile 'org.boofcv:boofcv-core:0.27'
+    compile 'org.tensorflow:tensorflow:1.4.0'
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
